@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&display=swap');
+
+body {
+    text-align: center;
+    box-sizing: border-box;
+    margin: 0;
+    background-image: url("minion-1357223_1280.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+nav {
+    /*background-color: #F2C94C;*/
+    display: block;
+    padding: 30px 0px 10px 120px;
+    font-family: 'Rampart One', cursive;
+    color: yellow;
+    font-size: 50rem;
+    word-spacing: 10px;
+}
+
+main {
+    max-width: 600px;
+    margin: 70px auto 100px auto;
+    padding: 1rem;
+    padding-top: 0px;
+    padding-left: 500px;
+
+}
+
+textarea {
+    background:none;
+    width: 80%;
+    height: 12vh;
+    display: block;
+    margin: 1rem;
+    border: yellow solid;
+    border-radius: 1rem;
+    padding: 1rem;
+    font-size: x-large;
+    
+}
+::placeholder{
+    color: yellow;
+    opacity: 1;
+}
+#btn-Translate{
+    border: none;
+    margin: 1rem 0rem;
+    padding: 1rem 2rem;
+    font-size: large;
+    background-color: yellow;
+    border-radius: 2rem;
+}
+
+#txt-output {
+    width: 80%;
+    height: 12vh;
+    display: block;
+    margin: 1rem;
+    border:  solid yellow;
+    padding: 1rem;
+    color: black;
+    font-size: large;
+    border-radius: 1rem;
+}
+
+footer {
+    /* background-color: yellow; */
+    width: 100%;
+    text-align: left;
+    padding: 1rem;
+    position: fixed;
+    bottom: 0;
+    padding-left: 280px;
+}
+
+p {
+    max-width: 800px;
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
