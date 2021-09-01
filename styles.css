@@ -63,8 +63,11 @@ textarea {
     border:  solid yellow;
     padding: 1rem;
     color: black;
+    text-align: left;
     font-size: x-large;
     border-radius: 1rem;
+    font-family: 'Rampart One', cursive;
+
 }
 
 footer {
