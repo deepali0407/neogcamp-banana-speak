@@ -63,12 +63,11 @@ textarea {
     border:  solid yellow;
     padding: 1rem;
     color: black;
-    font-size: large;
+    font-size: x-large;
     border-radius: 1rem;
 }
 
 footer {
-    /* background-color: yellow; */
     width: 100%;
     text-align: left;
     padding: 1rem;
