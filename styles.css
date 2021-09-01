@@ -29,7 +29,10 @@ main {
     padding-left: 500px;
 
 }
-
+#txt-input{
+    color: yellow;
+    
+}
 textarea {
     background:none;
     width: 80%;
