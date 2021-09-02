@@ -86,4 +86,6 @@ p {
     margin: auto;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
+    position: fixed;
+    bottom = 0;
 }
